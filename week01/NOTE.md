@@ -2,7 +2,7 @@
 
 ## HTML
 
-![20190418114107685](/Users/wanggang/Library/Mobile Documents/com~apple~CloudDocs/notes/前端/重学前端/Frontend-01-Template/week01/NOTE.assets/20190418114107685.jpg)
+![20190418114107685](./NOTE.assets/20190418114107685.jpg)
 
 SGML 定义电子文档和内容描述的标准。DTD 标准是SGML 的一部分
 
